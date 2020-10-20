@@ -1,0 +1,5 @@
+Variables: Espacio reservado en memoria para almacenar un valor.
+Strings: Tipo de dato a almacenar que se caracteriza por ser una cadena de caracteres y siempre se define entre comillas.
+Funciones: Es un conjunto de instrucciones al que pueden ingresar o no variables, devolviendo un resultado o procedimiento. El argumento de una función es la manera de ingresar las variables dentro de la misma. La declaración return se utiliza para devolver los datos solicitados a la función.
+Declaraciones: El "if" es utilizado como control de flujo, la función verifica si lo solicitado es true o false y devuelve lo que corresponda según el caso.
+Valores booleanos: Es un tipo de dato que puede tomar dos valores posibles, verdadero o falso.
