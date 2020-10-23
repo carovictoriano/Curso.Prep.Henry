@@ -1,0 +1,4 @@
+For: Es un bucle que sirve para realizar tareas de manera repetitivas, hasta lograr cierto objetivo.
+`&&`, `||`, `!` Son operadores lógicos para tipo de datos booleanos. El  operador lógico “AND” (&&) evalúa ambas
+expresiones y SOLO devolverá verdadero si AMBAS expresiones son true. En cambio, el "OR" (||) evalúa ambas 
+expresiones y SOLO devolverá falso si AMBAS expresiones lo son. 
