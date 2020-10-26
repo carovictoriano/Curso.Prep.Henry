@@ -1,0 +1,1 @@
+Arrays: Lista o serie de elementos ordenados, a los cuales puedo acceder gracias a este orden.
